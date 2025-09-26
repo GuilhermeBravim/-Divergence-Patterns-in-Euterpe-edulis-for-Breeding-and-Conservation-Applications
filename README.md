@@ -2,9 +2,7 @@
 
 This repository contains supporting material for the article:
 
-**Canal GB, Péres MZ, de Almeida FAN, Araújo MS, Tetzner de Oliveira J, Santos JG, de Souza GB, Ferreira MFS, Alexandre RS, Ferreira A. (2025).**  
-*Uncovering morphometric, germination, and genetic divergence patterns in Euterpe edulis for breeding and conservation applications.*  
-Scientific Reports 15:33038. https://doi.org/10.1038/s41598-025-02606-7
+**Uncovering morphometric, germination, and genetic divergence patterns in _Euterpe edulis_ for breeding and conservation applications.**
 
 ---
 
