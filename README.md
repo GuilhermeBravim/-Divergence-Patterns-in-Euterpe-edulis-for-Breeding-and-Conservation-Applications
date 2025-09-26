@@ -1,18 +1,44 @@
-# Uncovering morphometric, germination, and genetic divergence patterns in *Euterpe edulis* for breeding and conservation
+# Euterpe edulis: Morphometrics, Germination, and Genetic Divergence
 
-**Reference:** Canal GB, Péres MZ, de Almeida FAN, Araújo MS, Tetzner de Oliveira J, Santos JG, de Souza GB, Ferreira MFS, Alexandre RS, Ferreira A. (2025). *Scientific Reports* 15:33038. https://doi.org/10.1038/s41598-025-02606-7
+This repository contains supporting material for the article:
 
-This repository hosts data descriptors, scripts, and reproducible analyses for the study on morphometric traits, seed germination, early seedling development, and molecular diversity based on SSR markers in *Euterpe edulis* from Espírito Santo (Brazil). The material is organized to support reuse in breeding, conservation planning, and nursery decision-making.
+**Canal GB, Péres MZ, de Almeida FAN, Araújo MS, Tetzner de Oliveira J, Santos JG, de Souza GB, Ferreira MFS, Alexandre RS, Ferreira A. (2025).**  
+*Uncovering morphometric, germination, and genetic divergence patterns in Euterpe edulis for breeding and conservation applications.*  
+Scientific Reports 15:33038. https://doi.org/10.1038/s41598-025-02606-7
 
-## Highlights
-- Thirteen phenotypic traits spanning fruits, seeds, emergence, and early growth.
-- REML/BLUP mixed-model framework for variance components, heritability, and genetic values.
-- Pearson correlations and path analysis identifying direct effects on Dickson’s Quality Index (DQI).
-- SSR-based molecular diversity (8 loci) with PIC and heterozygosity metrics.
-- Genotype clustering (UPGMA), Mantel test across molecular and genotypic distances.
-- Practical guidance for assembling ex situ germplasm collections and founding breeding populations.
+---
+
+## About the study
+
+The study investigates **fruit and seed morphometrics, germination performance, seedling growth, and molecular diversity** in *Euterpe edulis*.  
+Key contributions include:
+
+- Estimation of variance components and heritability using REML/BLUP.  
+- Correlation and path analysis to identify direct effects on seedling quality.  
+- Assessment of genetic divergence among 72 genotypes with SSR markers.  
+- Practical recommendations for germplasm conservation and breeding programs.  
+
+These results provide valuable insights for the establishment of **ex situ germplasm collections** and the development of a breeding foundation population for this threatened Atlantic Forest palm.
+
+---
 
 ## Repository contents
-- **data/** raw and processed datasets, plus a detailed data dictionary.
 
+- `data_markers.txt` — allele size data from microsatellite (SSR) genotyping.  
+- `fig.png` — figure from the publication illustrating the study’s findings.  
 
+---
+
+## Figure
+
+![Overview of results](fig.png)
+
+---
+
+## Citation
+
+If you use this repository, please cite the article:
+
+> Canal GB, Péres MZ, de Almeida FAN, Araújo MS, Tetzner de Oliveira J, Santos JG, de Souza GB, Ferreira MFS, Alexandre RS, Ferreira A. 2025.  
+> *Uncovering morphometric, germination, and genetic divergence patterns in Euterpe edulis for breeding and conservation applications.*  
+> Scientific Reports 15:33038. https://doi.org/10.1038/s41598-025-02606-7
