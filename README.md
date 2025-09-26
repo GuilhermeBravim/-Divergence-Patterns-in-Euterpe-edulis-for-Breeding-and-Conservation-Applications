@@ -23,7 +23,6 @@ These results provide valuable insights for the establishment of **ex situ germp
 ## Repository contents
 
 - `data_markers.txt` — allele size data from microsatellite (SSR) genotyping.  
-- `fig.png` — figure from the publication illustrating the study’s findings.  
 
 ---
 
