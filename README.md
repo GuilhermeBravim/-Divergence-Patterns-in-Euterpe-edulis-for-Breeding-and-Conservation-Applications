@@ -16,11 +16,3 @@ This repository hosts data descriptors, scripts, and reproducible analyses for t
 - **data/** raw and processed datasets, plus a detailed data dictionary.
 
 
-## Getting started
-
-### Option A — R with `renv`
-```r
-# in project root
-install.packages("renv")
-renv::restore()
-source("scripts/00_setup_packages.R")
